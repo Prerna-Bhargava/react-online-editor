@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-online-editor/static/css/main.259be551.css",
+    "main.js": "/react-online-editor/static/js/main.c691f3d3.js",
+    "static/js/787.56db6630.chunk.js": "/react-online-editor/static/js/787.56db6630.chunk.js",
+    "index.html": "/react-online-editor/index.html",
+    "main.259be551.css.map": "/react-online-editor/static/css/main.259be551.css.map",
+    "main.c691f3d3.js.map": "/react-online-editor/static/js/main.c691f3d3.js.map",
+    "787.56db6630.chunk.js.map": "/react-online-editor/static/js/787.56db6630.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259be551.css",
+    "static/js/main.c691f3d3.js"
+  ]
+}
